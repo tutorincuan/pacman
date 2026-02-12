@@ -10,3 +10,11 @@ Throughout the tutorial, you will learn how to draw on the HTML5 canvas,  create
 
 ## Homework:
 You can continue working on this project if you like. You can design your own map by modifying the tileMap if you want. You can add power pellets to allow pacman to eat the ghosts. In addition, there is an opening on left and right, where if pacman goes through, it would appear on the other side of the map. Currently pacman just moves off screen out of the map so a fix would be needed to make pacman appear the other side. For more of a challenge, you can modify the ghosts movement to cover areas unreachable since the ghosts only change directions when they collide against a wall, and not when theres another path available to go through.
+
+<!--
+Source - https://stackoverflow.com/a/71373125
+Posted by Ben Souchet
+Retrieved 2026-02-12, License - CC BY-SA 4.0
+-->
+
+[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
