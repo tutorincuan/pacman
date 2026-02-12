@@ -1,6 +1,6 @@
 # [Pacman](https://youtu.be/WxeTMsaSOaA)
 - Coding Tutorial: [https://youtu.be/WxeTMsaSOaA](https://youtu.be/WxeTMsaSOaA)
-- Demo: https://imkennyyip.github.io/pacman/
+- Demo: https://tutorincuan.github.io/pacman/
 
 In this tutorial, you will learn how to code pac-man using javascript and HTML5 canvas.
 
